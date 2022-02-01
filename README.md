@@ -52,10 +52,6 @@ To prevent taking multiple snapshots of the same crops, a unique id has to be as
 
 ### [Project demo](https://bit.ly/Drones4Agric)
 
-### [Data Science Nigeria 2021 AI Bootcamp Presentation.](https://drive.google.com/file/d/1x_QFG-_qpbM4aCPcIAdWFcYr-lNvqhTl/view?usp=sharing)
-
-### [Project Poster](https://drive.google.com/file/d/1Zb3YCvJXl1IfLaVn2SoqAkwsr5w6lHr7/view?usp=sharing)
-
 ## Acknowledgement.
 
 [Obafemi Awolowo University Teaching and Research Farm](https://oaufarms.com/).
